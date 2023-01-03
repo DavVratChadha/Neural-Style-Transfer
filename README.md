@@ -1,1 +1,2 @@
 # Neural-Style-Transfer
+This GitHub repository is a personal project to document my progress as I learn about neural style transfer, a technique for combining the content of one image with the style of another image using deep learning. The repository will contain my notes, code, and examples of my experimentation with this technique. It is intended as a reference for myself as I continue to learn and explore this topic, and may also be of interest to others who are also learning about neural style transfer.
