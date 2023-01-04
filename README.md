@@ -7,4 +7,4 @@ This GitHub repository is a personal project to document my progress as I learn 
 (https://www.researchgate.net/publication/318830253_Demystifying_Neural_Style_Transfer)
 
 ## Note
-The papers state to use noise to genarate image similar to content image and then apply NST to transfer art style from style image to create the final image. But, in my mode, instead to using noise, I simply use content image and apply NST to it. This is done to make the overall process simpler and it requires lesser compute.
+The papers state to use noise to genarate image similar to content image and then apply NST to transfer art style from style image to create the final image. But, in my code, instead to using noise, I simply use content image and apply NST to it. This is done to make the overall process simpler and it requires lesser computation.
